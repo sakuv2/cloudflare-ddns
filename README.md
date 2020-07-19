@@ -8,5 +8,5 @@ docker run -d --rm \
     -e TOKEN="API_TOKEN" \
     -e ZOON="example.com" \
     -e DNS_NAME="host.example.com" \
-    cloudflare-ddns
+    agarichan/cloudflare-ddns
 ```
