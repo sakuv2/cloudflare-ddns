@@ -7,7 +7,7 @@ authors = ["sakuv2 <loots2438@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 cloudflare = "^2.8.6"
-pydantic = {extras = ["dotenv"], version = "^1.6.1"}
+pydantic = {extras = ["dotenv"], version = "^1.6.2"}
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.3"
